@@ -50,8 +50,8 @@ CREATE TABLE IF NOT EXISTS visitantes (
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seuusuario/controle-visitantes.git
-   cd controle-visitantes
+   git clone https://github.com/angelo-dm/interface_grafica.git
+   cd interface_grafica
    ```
 
 2. Instale o conector MySQL:
