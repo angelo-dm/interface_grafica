@@ -74,16 +74,16 @@ CREATE TABLE IF NOT EXISTS visitantes (
 
 ### 🖼️ Tela de Cadastro
 
-![Tela de Cadastro](screenshots\screen1.png)
+![Tela de Cadastro](screenshots/screen1.PNG)
 
 ### ✅ Confirmação de Registro
 
-![Confirmação](screenshots\screen2.png) 
-![Confirmação](screenshots\screen3.png)
+![Confirmação](screenshots/screen2.PNG) 
+![Confirmação](screenshots/screen3.PNG)
 
 ### 📊 Dados no Banco de Dados
 
-![Banco de Dados](screenshots\screen4.png)
+![Banco de Dados](screenshots/screen4.PNG)
 
 
 ---
